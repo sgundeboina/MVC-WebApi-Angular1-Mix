@@ -1,0 +1,5 @@
+C:\Experiments\ApiMVCAngular\MyProducts.API\MyProducts.Common\bin\Debug\MyProducts.Common.dll
+C:\Experiments\ApiMVCAngular\MyProducts.API\MyProducts.Common\bin\Debug\MyProducts.Common.pdb
+C:\Experiments\ApiMVCAngular\MyProducts.API\MyProducts.Common\obj\Debug\MyProducts.Common.csprojResolveAssemblyReference.cache
+C:\Experiments\ApiMVCAngular\MyProducts.API\MyProducts.Common\obj\Debug\MyProducts.Common.dll
+C:\Experiments\ApiMVCAngular\MyProducts.API\MyProducts.Common\obj\Debug\MyProducts.Common.pdb
